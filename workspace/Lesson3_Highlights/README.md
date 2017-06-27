@@ -14,6 +14,7 @@ GitHub is a useful tool for teams and individuals to manage their files and shar
 
 ## View Project:
 https://alysanger.github.io/lesson3_VersionControl/
+username: alysanger
 
 ## Lessons Learned in the Assignment:
 1. Using Git to share resources with team members seamlessly.
