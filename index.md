@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Project Name:  Lesson 3 Version Control
 
-You can use the [editor on GitHub](https://github.com/alysanger/lesson3_VersionControl/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Course Title:
+LIS 2360:  Web Application Development
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Assignment Date:  
+June 27, 2017
 
-### Markdown
+## Student Name:  
+Aly Sanger-Hodgson
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Project Description:
+GitHub is a useful tool for teams and individuals to manage their files and share across organizations.
 
-```markdown
-Syntax highlighted code block
+## View Project:
+https://alysanger.github.io/lesson3_VersionControl/
 
-# Header 1
-## Header 2
-### Header 3
+## Lessons Learned in the Assignment:
+1. Using Git to share resources with team members seamlessly.
+2. Using Git to for version control, and view the history of a file.
+3. Using Git to manage code and releases, including branching and creating backups.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alysanger/lesson3_VersionControl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
